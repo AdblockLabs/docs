@@ -31,7 +31,23 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      },
+      {
+        "group": "About",
+        "icon": "circle-info",
+        "pages": [
+          "about/adblocklabs.mdx"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
